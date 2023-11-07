@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['923192173398', 'wasi official', true],
+  ['923431774796', 'wasi', true], 
   [''] 
 ] //Number of owners
 
@@ -50,16 +50,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '𝑻𝑯𝑬 𝑾𝑨𝑺𝑰 𝑻𝑬𝑪𝑯'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = '𝑰𝑻𝑿 𝑾𝑨𝑺𝑶' 
 global.author = '@Asliguru' 
-global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.menuvid = 'https://telegra.ph/file/ff05d3b89faaeb47ddb0e.mp4'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/invites/contact/?i=sfppufzc9yzi&utm_content=m7fx63c\n' 
+global.dygp = 'https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgyt = 'https://www.youtube.com/@technicalvibs1'
+global.fgpyp = 'https://www.youtube.com/@technicalvibs1'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
