@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['923192173398', 'wasi official', true],
-  ['923431774796', 'wasi', true], 
+  ['22362451835', 'Kakuzu hidan ', true], 
   [''] 
 ] //Number of owners
 
@@ -50,11 +50,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝑻𝑯𝑬 𝑾𝑨𝑺𝑰 𝑻𝑬𝑪𝑯'
+global.botname = 'Kakuzu hidan '
 global.premium = 'true'
 global.packname = '𝑰𝑻𝑿 𝑾𝑨𝑺𝑶' 
-global.author = '@Asliguru' 
-global.menuvid = 'https://telegra.ph/file/ff05d3b89faaeb47ddb0e.mp4'
+global.author = '@wasi' 
+global.menuvid = 'https://telegra.ph/file/cc32a3993c1d49d4cd3be.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/invites/contact/?i=sfppufzc9yzi&utm_content=m7fx63c\n' 
 global.dygp = 'https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
