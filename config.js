@@ -50,11 +50,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝐓𝐇𝐄 𝐖𝐀𝐒𝐈 𝐓𝐄𝐂𝐇'
+global.botname = 'Kakuzu hidan '
 global.premium = 'true'
 global.packname = '𝑰𝑻𝑿 𝑾𝑨𝑺𝑶' 
 global.author = '@wasi' 
-global.menuvid = 'https://telegra.ph/file/f2b67afdd271baffabb70.mp4'
+global.menuvid = 'https://telegra.ph/file/99402a0f1fe9ab4a2322e.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/invites/contact/?i=sfppufzc9yzi&utm_content=m7fx63c\n' 
 global.dygp = 'https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
